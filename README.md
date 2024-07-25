@@ -42,4 +42,7 @@ This library focuses on the calculations of orbital parameters using the Ulianov
 To use these libraries, simply clone this repository and import the desired modules into your Python scripts. Ensure that you have `numpy` installed, as it is a dependency for these libraries.
 
 ```bash
-IN THE FUTURE WILL BE AVALIBLE: pip install numpy
+pip install numpy
+IN THE FUTURE WILL BE AVALIBLE: pip install ulianovellipse
+IN THE FUTURE WILL BE AVALIBLE: pip install ulianovorbit
+
