@@ -1,6 +1,4 @@
 # UlianovOrbit
-# UlianovOrbit
-
 ## Overview
 
 The **UlianovOrbit** repository contains two Python libraries designed for modeling and analyzing elliptical orbits using the Ulianov Orbital Model (UOM). This model provides a unique approach to studying orbits, using Ulianov elliptical functions to calculate various parameters and transformations related to elliptical paths in space.
